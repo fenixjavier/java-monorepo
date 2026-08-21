@@ -1,6 +1,6 @@
 package main;
 
-import Ejercicios.EjerciciosArray_29_Mayo.EncuestaEstudiantes;
+import Ejercicios.Agosto2026.ControlStockLibreria;
 
 /**
  * Clase principal
@@ -12,6 +12,6 @@ public class Proyecto {
      * @param args
      */
     public static void main(String[] args) {
-        new EncuestaEstudiantes();
+        ControlStockLibreria obj = new ControlStockLibreria();
     }
 }

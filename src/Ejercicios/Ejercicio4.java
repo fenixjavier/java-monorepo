@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * 
  * 
- * @author UNSAdA
+ * @author Fenix
  */
 public class Ejercicio4 {
 	public Ejercicio4() {
