@@ -1,17 +1,17 @@
 package main;
 
-import Ejercicios.Agosto2026.ControlStockLibreria;
+import Ejercicios.AyP_II.TP_1.*;;
 
 /**
  * Clase principal
  */
 public class Proyecto {
-    /**
-     * Proceso principal
-     * 
-     * @param args
-     */
-    public static void main(String[] args) {
-        ControlStockLibreria obj = new ControlStockLibreria();
-    }
+	/**
+	 * Proceso principal
+	 * 
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		GestionAlumnos obj = new GestionAlumnos();
+	}
 }
