@@ -12,6 +12,7 @@ public class Proyecto {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		GestionAlumnos obj = new GestionAlumnos();
+		// GestionAlumnos obj = new GestionAlumnos();
+		ControlInventario obj = new ControlInventario();
 	}
 }

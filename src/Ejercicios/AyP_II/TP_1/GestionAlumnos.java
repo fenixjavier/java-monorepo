@@ -21,7 +21,7 @@ class Alumno {
 public class GestionAlumnos {
 	Scanner in;
 	Alumno[] alumnos;
-	int size = 2;
+	int size = 15;
 
 	/**
 	 * Calculadora
@@ -43,7 +43,7 @@ public class GestionAlumnos {
 			System.out.print("Edad: ");
 			alumnos[i].edad = in.nextInt();
 
-			System.out.println("Nota: ");
+			System.out.print("Nota: ");
 			alumnos[i].nota = in.nextDouble();
 
 			in.nextLine();
