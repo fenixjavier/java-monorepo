@@ -20,7 +20,7 @@ class Producto {
 public class ControlInventario {
 	Scanner in;
 	Producto[] productos;
-	int size = 2;
+	int size = 50;
 
 	/**
 	 * 
