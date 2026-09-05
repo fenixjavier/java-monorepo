@@ -20,7 +20,7 @@ class Pelicula {
 public class RegistroPeliculas {
 	Scanner in;
 	Pelicula[] peliculas;
-	int size = 2;
+	int size = 20;
 
 	/**
 	 * Constructor

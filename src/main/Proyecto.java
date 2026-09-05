@@ -14,6 +14,7 @@ public class Proyecto {
 	public static void main(String[] args) {
 		// GestionAlumnos obj = new GestionAlumnos();
 		// ControlInventario obj = new ControlInventario();
-		RegistroPeliculas obj = new RegistroPeliculas();
+		// RegistroPeliculas obj = new RegistroPeliculas();
+		AgendaDeContactos obj = new AgendaDeContactos();
 	}
 }
